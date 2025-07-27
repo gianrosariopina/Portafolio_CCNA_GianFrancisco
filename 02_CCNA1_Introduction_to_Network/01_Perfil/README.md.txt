@@ -21,7 +21,7 @@ Este perfil es mi portafolio de aprendizaje y contiene:
   Laboratorios, documentación y ejercicios realizados durante el curso  
   *CCNA 1 – Introduction to Networks.*
 
-*(Enlace real: actualízalo con la URL del repositorio cuando ya esté público)*
+
 
 ---
 
@@ -55,8 +55,6 @@ This profile is my learning portfolio and includes:
 - **[gianfrancisco-ccna1-networking-portfolio](#)**  
   Labs, documentation, and exercises from  
   *CCNA 1 – Introduction to Networks.*
-
-*(Update the link when your repo is public)*
 
 ---
 
